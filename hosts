@@ -1,0 +1,2 @@
+[Revnivyh]
+192.168.1.110 ansible_ssh_user=master ansible_sudo_pass=123456
